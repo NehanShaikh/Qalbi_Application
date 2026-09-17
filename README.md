@@ -122,7 +122,7 @@ Go to the **Releases** section of this repository to download the latest version
 ### Windows
 
 1. Open the **Releases** section.
-2. Download `Qalbi-Windows.zip`.
+2. Download `Qalbi.zip`.
 3. Extract the ZIP file.
 4. Open the extracted folder.
 5. Run `Qalbi.exe`.
