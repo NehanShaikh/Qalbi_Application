@@ -9,7 +9,7 @@ The latest release provides builds for Android and Windows.
 | Platform | Download |
 |---|---|
 | 📱 Android | `Qalbi.apk` |
-| 🖥️ Windows | `Qalbi-Windows.zip` |
+| 🖥️ Windows | `Qalbi.zip` |
 
 Go to the **Releases** section of this repository to download the latest version.
 
