@@ -103,6 +103,29 @@ Go to the **Releases** section of this repository to download the latest version
 - Transliteration visibility
 - Persistent reading preferences
 
+## 📸 App Screenshots
+
+### Home Screen
+![Qalbi Home Screen](screenshots/home.png)
+
+### Quran Reader
+![Quran Reader](screenshots/quran_reader.png)
+
+### Quran Audio
+![Quran Audio](screenshots/quran_audio.png)
+
+### Hadith
+![Hadith](screenshots/hadith.png)
+
+### Dhikr & Dua
+![Dhikr and Dua](screenshots/dhikr_dua.png)
+
+### Tasbih and Qibla
+![Tasbih and Qibla](screenshots/tasbih_qibla.png)
+
+### Settings
+![Qalbi Settings](screenshots/settings.png)
+
 ## 📱 Supported Platforms
 
 - Android
