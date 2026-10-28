@@ -106,7 +106,7 @@ Go to the **Releases** section of this repository to download the latest version
 ## 📸 App Screenshots
 
 ### Home Screen
-![Qalbi Home Screen](screenshots/home.png)
+![Qalbi Home Screen](screenshots/Screenshot_20260922_222754.jpg)
 
 ### Quran Reader
 ![Quran Reader](screenshots/quran_reader.png)
