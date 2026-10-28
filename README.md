@@ -106,25 +106,25 @@ Go to the **Releases** section of this repository to download the latest version
 ## 📸 App Screenshots
 
 ### Home Screen
-![Qalbi Home Screen](screenshots/Screenshot_20260922_222754.jpg)
+![Qalbi Home Screen](screenshots/home_screen.jpg)
 
 ### Quran Reader
-![Quran Reader](screenshots/Screenshot_20260922_222810.jpg)
+![Quran Reader](screenshots/quran_reader.jpg)
 
 ### Quran Audio
-![Quran Audio](screenshots/quran_audio.png)
+![Quran Audio](screenshots/quran_audio.jpg)
 
 ### Hadith
-![Hadith](screenshots/hadith.png)
+![Hadith](screenshots/hadith.jpg)
 
 ### Dhikr & Dua
-![Dhikr and Dua](screenshots/dhikr_dua.png)
+![Dhikr and Dua](screenshots/dhikr_dua.jpg)
 
 ### Tasbih and Qibla
-![Tasbih and Qibla](screenshots/tasbih_qibla.png)
+![Tasbih and Qibla](screenshots/tasbih_qibla.jpg)
 
 ### Settings
-![Qalbi Settings](screenshots/settings.png)
+![Qalbi Settings](screenshots/settings.jpg)
 
 ## 📱 Supported Platforms
 
