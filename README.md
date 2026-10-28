@@ -109,7 +109,7 @@ Go to the **Releases** section of this repository to download the latest version
 ![Qalbi Home Screen](screenshots/Screenshot_20260922_222754.jpg)
 
 ### Quran Reader
-![Quran Reader](screenshots/quran_reader.png)
+![Quran Reader](screenshots/Screenshot_20260922_222810.jpg)
 
 ### Quran Audio
 ![Quran Audio](screenshots/quran_audio.png)
